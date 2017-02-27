@@ -1,4 +1,6 @@
-all: docx
+all: docx table1
+
+table1: docx/Table1.docx
 
 docx: docx/Activation\ of\ nitenpyram.docx
 
@@ -11,3 +13,14 @@ docx/Activation\ of\ nitenpyram.docx: text/Activation\ of\ nitenpyram.md templat
 		--output=docx/Activation\ of\ nitenpyram.docx \
 		metadata/meta.yaml \
 		text/Activation\ of\ nitenpyram.md
+
+docx/Table1.docx: text/Table1.md template/reference.docx metadata/meta.yaml
+	pandoc --reference-docx=template/reference.docx \
+		--csl=template/insect-biochemistry-and-molecular-biology.csl \
+		--bibliography=bib/collection.bibtex \
+		--from=markdown \
+		--to=docx \
+		--output=docx/Table1.docx \
+		metadata/meta.yaml \
+		text/Table1.md
+
