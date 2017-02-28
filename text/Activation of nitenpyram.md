@@ -12,7 +12,11 @@ Department of Genetics and Bio21 Molecular Science and Biotechnology Institute, 
 
 ### Keywords
 
-### Abstract 
+Cytochrome P450, nitenpyram, insecticide metabolism, **???** 
+
+### Abstract
+
+Nitenpyram is a member of the economically important neonicotinoid class of insecticides. The *in vivo* metabolism of nitenpyram is not well characterised, but cytochrome P450 activity is the major mechanism of resistance to neonicotinoids and P450s metabolise other neonicotinoids including imidacloprid. We used RNAi of the cytochrome P450 redox partners with GAL4/UAS targeting to interrupt P450 functions in specific tissues in *Drosophila melanogaster*. RNAi of the mitochondrial redox partner *dare* in the digestive tissues reduced nitenpyram mortality, indicating an activation step in the metabolism of nitenpyram carried out by a mitochondrial P450. RNAi of the mitochondrial P450 *Cyp12a5*, which is expressed in the digestive tissues, resulted in the same phenotype, and transgenic overexpression of *Cyp12a5* increased nitenpyram sensitivity. These results suggest that *in vivo* metabolism of nitenpyram by the mitochondrial P450, CYP12A5, results in the formation of a product with higher toxicity than the parent compound.
 
 ### Graphical abstract 
 
