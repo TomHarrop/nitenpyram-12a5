@@ -1,0 +1,25 @@
+
+Dear Professor Van Leeuwen,
+
+Thank you for your consideration of our work. We are also grateful to the referees for their careful reading of our manuscript and for their helpful suggestions.
+
+We have revised our manuscript in response to the comments from the referees. The following is a list of our changes.
+
+### Referee 2
+
+- *However nitenpyram is a non-cyclic nitromethylene neonicotinoid insecticide of minor importance in agriculture due to its low UV stability, but it is widely used in animal health application, e.g. to control ectoparasites such as cat fleas. The authors could mention this in their introductory part as I think the use pattern it is of interest to readers*
+    + We have inserted the following sentence at line 58: "Because of these properties it has been most commonly used in animal health *e.g.* for the control of ectoparasites such as cat fleas."
+- *One point I want the authors to cover in more detail is the claimed activated nitenpyram metabolite. The metabolic fate of nitenpyram has not been studied in insects (as mentioned by the authors), but mice and plants (see Yoshida et al. (2013) J Pestic Sci 38, 27). However the N-desmethylated metabolite is rather unlikely to be more toxic, and a metabolite one could think of is N-desethyl nitenpyram, and I wonder if this metabolite has been described in any registration relevant toxicology study (the data should be accessible, e.g. EPA). If yes, it is a potential candidate worth to be mentioned.*
+    + We agree with the reviewer that this is an important and interesting point. However, because the metabolites of nitenpyram in insects are not known, any discussion of the insecticidal properties of the metabolites identified in other systems would be speculation. It is also possible that CYP12A5 acts on a nitenpyram metabolite, rather than nitenpyram itself. For these reasons, we decided not to discuss the putative toxic metabolite in our original manuscript. In response to this comment, we have added the following sentence to the discussion at line 274: "Nitenpyram metabolites have been described in plants and mammals, but it is not known whether the same metabolites are formed in insects or if the metabolites have insecticidal properties." We have added two citations (56 & 57) for this sentence. We have also added the following sentence at line 252: "This may be a result of CYP12A5 activity towards nitenpyram or a metabolite of nitenpyram."
+- *The authors have shown that RNAi mediated silencing of dare and Cpr in Malpighian tubules and midgut tissue does not confer mortality. What happened to flies if both redox partners are silenced at the same time? Do they still survive and if yes, how does it affect the toxicity of nitenpyram.*
+    + We have not performed these experiments. Although this would be interesting, we are not aware of any evidence of functional redundancy between *Cpr* and *dare*. Additionally, the use of P450 inhibitors (PBO etc.) may be more practical to test the effect of global disruption of P450 activity on the metabolism of specific compounds.
+
+### Other changes:
+
+- We have made minor changes in sentences starting on lines 34, 60 and 65 to improve reading.
+- We have fixed an error relating to the citation of reference 53 starting at line 258.
+
+Sincerely,
+
+Thomas Harrop
+

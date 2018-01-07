@@ -1,0 +1,21 @@
+Dear Editor,
+
+We would like our manuscript, titled "Evidence for activation of nitenpyram by a mitochondrial cytochrome P450 in <i>Drosophila melanogaster</i>", to be considered for publication in Pest Management Science.
+
+Our identification of the <i>Cyp12a5</i> gene as a metabolizer of the insecticide nitenpyram began with RNAi knockdown of the mitochondrial P450 redox partner, dare. Knockdown of dare in digestive tissues actually reduced the toxicity of nitenpyram, suggesting that a mitochondrial P450 may be involved in increasing the toxicity of this insecticide. We were able to replicate this reduced toxicity with RNAi for the <i>Cyp12a5</i> gene in digestive tissues, and then produced the expected opposite outcome (increased toxicity) by overexpressing <i>Cyp12a5</i>.
+
+This research is significant because in the literature, it is often assumed that P450s serve to detoxify insecticides. Indeed, P450s are often referred to as 'detoxification enzymes'. This manuscript augments published evidence from our group showing that another <i>D. melanogaster</i> P450, <i>Cyp6g1</i>, may increase the toxicity of a different neonicotinoid, imidacloprid (Hoi et al. 2014, Analytical Chemistry 86, 3525–3532). However, in contrast to our observations for <i>Cyp12a5</i>, <i>Cyp6g1</i> overexpression leads to imidacloprid resistance (Daborn et al. 2002, Science 297, 2253–2256). Our group has produced evidence that the toxic metabolites of imidacloprid produced by CYP6G1 are excreted without further metabolism. Therefore, publication of the current manuscript would cause a closer examination of the potential for P450s to be involved in both the activation and detoxification of insecticides. As <i>Cyp12a5</i> does not detoxify nitenpyram, publication of this manuscript is also likely to stimulate a search for the enzyme(s) that does. 
+
+Metabolism of insecticides by mitochondrial P450 enzymes is not completely novel, but most P450s involved in insecticide metabolism are cytosolic, and studies of the interaction between mitochondrial and cytosolic enzymes in insecticide metabolism may also be initiated by the research in this manuscript. 
+
+The metabolism of neonicotinoids has been a subject of intense interest, in part because of the controversy that surrounds the use of these insecticides, particularly with reference to their impact on bees. Neonicotinoids have been the most used class of insecticides due to their efficacy and, for some applications, a lack of alternatives to replace them. It is noteworthy that evolved resistances to these insecticides in pests are due to changes in the expression of P450s (Bass et al. 2015, Pesticide Biochemistry and Physiology 121, 78–87).
+
+Thank you for your consideration of our work.
+
+Sincerely,
+
+Thomas Harrop
+
+
+
+
